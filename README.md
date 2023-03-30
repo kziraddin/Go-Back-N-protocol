@@ -1,4 +1,4 @@
-# Go-Back-N (GBN) protocol:
+# Go-Back-N (GBN) protocol implementation in C++:
 
 The Go-Back-N protocol is a type of automatic repeat request (ARQ) protocol used in communication networks, especially in point-to-point and broadcast networks. It is used to ensure reliable delivery of packets in the presence of transmission errors, lost packets, or out-of-order delivery.
 
